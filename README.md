@@ -5,6 +5,8 @@
   <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 
-## Deploy to Heroku 🍿 press the following button to deploy in heroku.
+## Deploy to Heroku 😍
+press the following button
+to deploy in heroku.
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Basdevi/Sample-)
